@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 ![EsperanzaGB's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsperanzaGB&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsperanzaGB&layout=compact&theme=radical)](https://github.com/EsperanzaGB/github-readme-stats)
